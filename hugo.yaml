@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://SaloniGharge.github.io
 
-languageCode: bn
-title: "John's Blog"
+languageCode: en
+title: "Saloni's Blog"
 
 # Use Hugo modules to add theme
 module:
