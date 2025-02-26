@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Saloni's Blog"
     weight: 1
   bn:
     languageCode: bn
@@ -70,9 +70,9 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  #gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
   # Default branch of your Git repo
-  gitBranch: main
+  #gitBranch: main
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
@@ -101,15 +101,15 @@ params:
     # Enable and configure blog posts
     blog:
       enable: true
-      showAuthor: true # shows the author of post (defaults true)
+      showAuthor: false # shows the author of post (defaults true)
       # Share post on different social media
-      shareButtons:
-        facebook: true
-        twitter: true
-        linkedin: true
-        reddit: true
-        whatsapp: true
-        email: true
+      #shareButtons:
+      #  facebook: true
+      #  twitter: true
+      #  linkedin: true
+      #  reddit: true
+      #  whatsapp: true
+      #  email: true
         # tumblr: true
         # pocket: true
         # diaspora: true
@@ -117,7 +117,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -155,7 +155,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:
