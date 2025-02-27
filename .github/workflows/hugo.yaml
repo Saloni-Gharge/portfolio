@@ -1,0 +1,49 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy-to-gh-pages:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Setup Hugo
+      - name: Setup Hugo (Extended Version)
+        uses: peaceiris/actions-hugo@v3.0.0
+        with:
+          hugo-version: 'latest'
+          extended: true
+      
+      # Step 3: Update Hugo Modules
+      - name: Update Hugo Modules
+        run: hugo mod tidy
+      
+      # Step 4: Set up Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      # Step 5: Install npm dependencies
+      - name: Install node modules
+        run: | 
+          hugo mod npm pack
+          npm install
+
+      # Step 6: Build the site
+      - name: Build
+        run: hugo --minify
+
+      # Step 7: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
