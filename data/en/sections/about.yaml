@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'Data Scientist and Software Developer with 2 years of experience, currently pursuing a UBC Sauder Master’s in Business Analytics. Experienced in developing and optimizing data science platforms, including Generative AI projects. Proficient in Python, Database Management, Docker, Kubernetes, and Machine Learning. Combining technical skills with advanced analytics to drive innovation and problem-solving in dynamic environments.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -67,13 +67,13 @@ badges:
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Effective Communication
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Problem Solving
+  percentage: 90
   color: orange
 
 # you can also provide color code instead of the color name
