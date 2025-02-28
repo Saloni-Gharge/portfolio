@@ -52,14 +52,14 @@ badges:
   badge: "https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://drive.google.com/drive/folders/188EQvQ7L-miAxTdsrJUPPlJZbWVWWrxh"
+  name: Python Specialization
+  url: "https://drive.google.com/file/d/1BJpAKOUmO8p6nYD72erI12qdQc-9X-uY/view?usp=drive_link"
   badge: "https://images.credly.com/size/400x400/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Introduction to Generative AI
+  url: "https://drive.google.com/file/d/14g3iKGMgaGuTrqlOqs69uqDFzYrqQx2-/view?usp=drive_link"
+  badge: "https://images.credly.com/size/400x400/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png"
 
 - type: soft-skill-indicator
   name: Leadership
