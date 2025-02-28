@@ -9,13 +9,12 @@ contactInfo:
   email: "ghargesau@gmail.com"
   #phone: "+0123456789"
   #github: johndoe
-  linkedin: http://www.linkedin.com/in/salonigharge
+  linkedin: salonigharge
   #researchgate: john-doe
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I am a Master of Business Analytics student at UBC Sauder.
+  - I have 2 years of experience in Data Science & Software Development.
+  - I thrive at the intersection of technology and problem-solving.
+  - I am a curious and creative thinker, passionate about innovation and continuous growth
