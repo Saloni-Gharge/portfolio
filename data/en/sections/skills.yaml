@@ -17,16 +17,6 @@ buttons:
   filter: "programming"
 - name: Database
   filter: "database"
-- name: OS & Scripting
-  filter: "os-scripting"
-- name: Data Science
-  filter: "data-science"
-- name: Big Data & Containers
-  filter: "big-data"
-- name: Generative AI
-  filter: "gen-ai"
-- name: Interpersonal
-  filter: "interpersonal"
 - name: Others
   filter: "others"
 
@@ -57,7 +47,7 @@ skills:
   url: "https://www.python.org/"
 
 - name: C/C++
-  logo: /images/sections/skills/cpp.png
+  logo: /images/sections/skills/c++.png
   summary: "Basic understanding of C and C++ for system programming and problem-solving."
   categories: ["programming"]
 
