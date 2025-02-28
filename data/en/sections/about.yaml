@@ -47,9 +47,9 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Microsoft Azure AI Fundamentals
+  url: "https://learn.microsoft.com/en-us/users/salonigharge-5630"
+  badge: "https://drive.google.com/file/d/1IcCv5jpnhS8iI_gVH7O2wnKFGeC78b1Q/view?usp=drive_link"
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
