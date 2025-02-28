@@ -49,7 +49,7 @@ badges:
 - type: certification
   name: Microsoft Azure AI Fundamentals
   url: "https://learn.microsoft.com/en-us/users/salonigharge-5630"
-  badge: "https://github.com/Saloni-Gharge/SaloniGharge.github.io/blob/main/assets/images/sections/skills/azureimg.png"
+  image: /images/sections/skills/azureimg.png
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
