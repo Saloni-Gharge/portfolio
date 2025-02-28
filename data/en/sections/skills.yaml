@@ -13,59 +13,85 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Basic
-  filter: "basic"
-- name: Language
-  filter: "language"
-- name: Container
-  filter: "container"
+- name: Programming
+  filter: "programming"
+- name: Database
+  filter: "database"
+- name: OS & Scripting
+  filter: "os-scripting"
+- name: Data Science
+  filter: "data-science"
+- name: Big Data & Containers
+  filter: "big-data"
+- name: Generative AI
+  filter: "gen-ai"
+- name: Interpersonal
+  filter: "interpersonal"
 - name: Others
   filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
-
-- name: Go Development
-  logo: /images/sections/skills/azureimg.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
-
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
   categories: ["others"]
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
-
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
-
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
+  summary: "Experienced in Git for version control, collaboration, and CI/CD workflows using GitHub and GitLab."
+  categories: ["others"]
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+- name: Tableau
+  logo: /images/sections/skills/tableau.png
+  summary: "Experienced in creating interactive dashboards and data visualizations using Tableau for business intelligence and analytics."
+  categories: ["others"]
+  url: "https://www.tableau.com/"
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Advanced knowledge in Python for software development, automation, and data science."
+  categories: ["programming"]
+  url: "https://www.python.org/"
+
+- name: C/C++
+  logo: /images/sections/skills/cpp.png
+  summary: "Basic understanding of C and C++ for system programming and problem-solving."
+  categories: ["programming"]
+
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "Strong knowledge of SQL for database management and data querying."
+  categories: ["programming"]
+
+- name: MySQL
+  logo: /images/sections/skills/mysql.png
+  summary: "Experience in SQL-based relational database management, including query optimization and indexing."
+  categories: ["database"]
+
+- name: PostgreSQL
+  logo: /images/sections/skills/postgresql.png
+  summary: "Skilled in PostgreSQL for handling transactional data, stored procedures, and JSON processing."
+  categories: ["database"]
+
+- name: Oracle
+  logo: /images/sections/skills/oracle.png
+  summary: "Experience in working with Oracle databases, including PL/SQL and performance tuning."
+  categories: ["database"]
+
+- name: MongoDB
+  logo: /images/sections/skills/mongodb.png
+  summary: "Proficient in NoSQL document-based database management with MongoDB for scalable applications."
+  categories: ["database"]
+
+- name: Milvus
+  logo: /images/sections/skills/milvus.png
+  summary: "Hands-on experience with Milvus vector databases for AI-powered search and recommendation systems."
+  categories: ["database"]
+
+- name: Neo4j
+  logo: /images/sections/skills/neo4j.png
+  summary: "Familiar with graph-based database management using Neo4j, specializing in Cypher queries."
+  categories: ["database"]
