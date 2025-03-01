@@ -29,24 +29,15 @@
     <div class="row" id="skill-card-holder" style="margin-left:unset">
       
       {{ range .skills }}
-        {{ if in .categories "programming" }}
+        <div class="filtr-item" data-category="{{ delimit .categories " " }}" 
+             style="{{ if not (in .categories "programming") }}display: none;{{ end }}">
           {{ partial "cards/skill.html" . }}
-        {{ end }}
+        </div>
       {{ end }}
       
     </div>
   </div>
   
-  <div class="container d-flex-block filtr-skills" style="display: none;">
-    <div class="row" id="all-skill-cards" style="margin-left:unset">
-      
-      {{ range .skills }}
-        {{ partial "cards/skill.html" . }}
-      {{ end }}
-      
-    </div>
-  </div>
-
-  {{ end }}
+  {{ end }} 
 
 </div>
