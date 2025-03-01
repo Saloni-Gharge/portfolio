@@ -1,5 +1,6 @@
 <div class="col-xs-12 col-sm-6 col-lg-4 pt-2 filtr-item"
   data-category='{{ with .categories }}{{ delimit . ","}}{{ end }}'
+  style="{{ if not (in .categories "programming") }}display: none;{{ end }}"
 >
   <a class="text-decoration-none" {{ if .url }}href="{{ .url }}" title="{{ .name }}" target="_blank" rel="noopener"{{ end }}>
     <div class="card">
