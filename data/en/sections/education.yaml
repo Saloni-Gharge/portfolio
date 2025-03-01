@@ -44,8 +44,8 @@ degrees:
       achieved: 3.60 (Grade A+)
       outOf: 4
   extracurricularActivities: #(optional)
-  - Secured 2nd place in **UBC MBAN Hackathon 2025**, supported by **Google Cloud**.
-  - Awarded **2nd Place in the Fan’s Favorite category** at **UBC Analytics Hackathon**.
+  - Secured 2nd place in UBC MBAN Hackathon 2025, supported by Google Cloud.
+  - Awarded 2nd Place in the Fan’s Favorite category at UBC Analytics Hackathon.
   
 - name: Bachaelor of Computer Engineering
   icon: fa-university
