@@ -138,7 +138,7 @@ skills:
   categories: ["big-data"]
 
 - name: Docker
-  logo: /images/sections/skills/docker.png
+  logo: /images/sections/skills/docker.svg
   summary: "Experience in containerization and deploying applications using Docker."
   categories: ["big-data"]
 
