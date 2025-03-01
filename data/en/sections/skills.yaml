@@ -11,12 +11,20 @@ section:
 
 # filter buttons
 buttons:
-- name: All
-  filter: "all"
 - name: Programming
   filter: "programming"
 - name: Database
   filter: "database"
+- name: OS & Scripting
+  filter: "os-scripting"
+- name: Data Science
+  filter: "data-science"
+- name: Big Data & Containers
+  filter: "big-data"
+- name: Generative AI
+  filter: "gen-ai"
+- name: Interpersonal
+  filter: "interpersonal"
 - name: Others
   filter: "others"
 
@@ -85,3 +93,98 @@ skills:
   logo: /images/sections/skills/neo4j.png
   summary: "Familiar with graph-based database management using Neo4j, specializing in Cypher queries."
   categories: ["database"]
+# OS & Scripting Skills
+- name: Windows
+  logo: /images/sections/skills/windows.png
+  summary: "Comfortable using Windows for software development and administration."
+  categories: ["os-scripting"]
+
+- name: macOS
+  logo: /images/sections/skills/macos.png
+  summary: "Experience in macOS for software engineering and automation tasks."
+  categories: ["os-scripting"]
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Expert in Linux shell scripting for automation and system management."
+  categories: ["os-scripting"]
+
+- name: Bash Scripting
+  logo: /images/sections/skills/bash.png
+  summary: "Proficient in writing Bash scripts for automation, system administration, and DevOps tasks."
+  categories: ["os-scripting"]
+  url: "https://www.gnu.org/software/bash/"
+
+# Data Science Skills
+- name: Machine Learning
+  logo: /images/sections/skills/ml.png
+  summary: "Hands-on experience in building ML models, training, and evaluation."
+  categories: ["data-science"]
+
+- name: NLP
+  logo: /images/sections/skills/nlp.png
+  summary: "Experience in Natural Language Processing (NLP) for text analysis."
+  categories: ["data-science"]
+
+- name: Data Visualization
+  logo: /images/sections/skills/dataviz.png
+  summary: "Proficient in visualizing data using tools like Matplotlib, Seaborn, and Power BI."
+  categories: ["data-science"]
+
+# Big Data & Containers Skills
+- name: Hadoop
+  logo: /images/sections/skills/hadoop.png
+  summary: "Basic knowledge of big data processing using Hadoop."
+  categories: ["big-data"]
+
+- name: Docker
+  logo: /images/sections/skills/docker.png
+  summary: "Experience in containerization and deploying applications using Docker."
+  categories: ["big-data"]
+
+- name: Kubernetes
+  logo: /images/sections/skills/kubernetes.png
+  summary: "Capable of managing and orchestrating containers using Kubernetes."
+  categories: ["big-data"]
+
+# Generative AI Skills
+- name: LLMs
+  logo: /images/sections/skills/llm.png
+  summary: "Worked with Large Language Models for AI applications."
+  categories: ["gen-ai"]
+
+- name: RAG
+  logo: /images/sections/skills/rag.png
+  summary: "Experience in Retrieval-Augmented Generation (RAG) for AI models."
+  categories: ["gen-ai"]
+
+- name: Llama-Index
+  logo: /images/sections/skills/llama.png
+  summary: "Familiar with Llama-Index for structured and unstructured data querying."
+  categories: ["gen-ai"]
+
+- name: Langchain
+  logo: /images/sections/skills/langchain.png
+  summary: "Experience in building AI pipelines using Langchain."
+  categories: ["gen-ai"]
+
+# Interpersonal Skills
+- name: Problem Solving
+  logo: /images/sections/skills/problem-solving.png
+  summary: "Strong analytical skills to approach and solve complex problems efficiently."
+  categories: ["interpersonal"]
+
+- name: Teamwork
+  logo: /images/sections/skills/teamwork.png
+  summary: "Excellent collaboration skills and ability to work in diverse teams."
+  categories: ["interpersonal"]
+
+- name: Effective Communication
+  logo: /images/sections/skills/communication.png
+  summary: "Ability to clearly convey technical and non-technical concepts."
+  categories: ["interpersonal"]
+
+- name: Emotional Intelligence
+  logo: /images/sections/skills/eq.png
+  summary: "Understanding emotions to enhance workplace interactions and leadership."
+  categories: ["interpersonal"]
