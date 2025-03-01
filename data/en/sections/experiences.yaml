@@ -17,7 +17,7 @@ experiences:
     logo: /images/sections/experiences/jpl.jpg
     overview: Reliance Jio Platforms Limited is a leading Indian telecommunications and technology company, specializing in data-driven solutions and AI/ML innovations.
   positions:
-   - designation: Data Scientist – Analytics COE (Center of Excellence)
+  - designation: Data Scientist – Analytics COE (Center of Excellence)
     start: Feb 2023
     end: July 2024
     responsibilities:
