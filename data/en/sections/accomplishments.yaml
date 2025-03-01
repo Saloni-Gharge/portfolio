@@ -67,41 +67,13 @@ accomplishments:
       - JavaScript, jQuery, and JSON
   certificateURL: "https://drive.google.com/drive/folders/1Ol-B55PX_NDU5RacfeQeb07ApDbdR7hb?usp=drive_link"
 
-- name: Datacamp - Introduction to SQL and Intermediate SQL
-  timeline: "Nov 2024"
-  organization:
-    name: DataCamp
-    url: https://www.datacamp.com
-  courseOverview: |
-    Completed SQL fundamentals and intermediate courses, focusing on:
-      - Writing and optimizing queries
-      - Data retrieval, joins, and subqueries
-      - Working with databases for analysis
-  certificateURL: "https://drive.google.com/drive/folders/1h-VoVjFvH83D_RhGfYwzixRKJ8W-xFU6?usp=drive_link"
-
-- name: Datacamp - Introduction to Python, Intermediate Python, and Data Science for Business
-  timeline: "Aug 2024"
-  organization:
-    name: DataCamp
-    url: https://www.datacamp.com
-  courseOverview: |
-    Developed strong Python programming skills with a focus on:
-      - Python fundamentals and data structures
-      - Object-oriented programming and file handling
-      - Data science applications for business
-  certificateURL: "https://drive.google.com/drive/folders/1VAMqMUzp5X2i8t4ok7n7TpgojfucqDb1?usp=drive_link"
-
 - name: DataCamp - Python & SQL Specialization
   timeline: "2024"
   organization:
     name: DataCamp
     url: https://www.datacamp.com
   courseOverview: |
-    Completed **multiple courses in Python & SQL**, gaining hands-on experience in Data Science and Database Management.
-    - **SQL Specialization (Nov 2024)**  
-      - SQL fundamentals, joins, subqueries, data analysis  
-      - [Certificate Link](https://drive.google.com/drive/folders/1h-VoVjFvH83D_RhGfYwzixRKJ8W-xFU6?usp=drive_link)  
-    - **Python Specialization (Aug 2024)**  
-      - Python programming, Data Science for Business  
-      - [Certificate Link](https://drive.google.com/drive/folders/1VAMqMUzp5X2i8t4ok7n7TpgojfucqDb1?usp=drive_link)
-  certificateURL: "https://drive.google.com/drive/folders/1VAMqMUzp5X2i8t4ok7n7TpgojfucqDb1?usp=drive_link"
+    Completed multiple courses in Python & SQL, gaining hands-on experience in Data Science and Database Management.
+    - **SQL Specialization (Nov 2024)**: Completed SQL fundamentals and intermediate courses, gaining expertise in query optimization, data retrieval, joins, subqueries, and database analysis. 
+    - **Python Specialization (Aug 2024)**: Mastered Python fundamentals, OOP, file handling, and data science applications for business. 
+  certificateURL: "https://drive.google.com/drive/folders/1GzBvVFPkSFuFV47tvBGOm9CxE-R49WDU?usp=drive_link"
