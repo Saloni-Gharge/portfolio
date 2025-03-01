@@ -23,15 +23,26 @@
       {{ end }}
     </div>
   </div>
+  
   <div class="container d-flex-block filtr-skills">
-    <div class="row" id="skill-card-holder" data-default-filter="programming" style="margin-left:unset">
-  {{ else }}
-  <div class="container d-flex-block">
-    <div class="row" id="primary-skills">
-  {{ end }}
+    <div class="row" id="skill-card-holder" style="margin-left:unset">
+      
       {{ range .skills }}
-      {{ partial "cards/skill.html" . }}
-    {{ end }}
+        {{ if in .categories "programming" }}
+          {{ partial "cards/skill.html" . }}
+        {{ end }}
+      {{ end }}
+      
+    </div>
+  </div>
+  
+  <div class="container d-flex-block filtr-skills" style="display: none;">
+    <div class="row" id="all-skill-cards" style="margin-left:unset">
+      
+      {{ range .skills }}
+        {{ partial "cards/skill.html" . }}
+      {{ end }}
+      
     </div>
   </div>
 </div>
