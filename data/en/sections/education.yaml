@@ -28,13 +28,20 @@ degrees:
     showGrades: true
     collapseAfter: 3
     courses:
-    - name: Business Analytics Programming
-      achieved: Grade A+
-    - name: Operating System
-      achieved: 3.5
+    - name: Business Analytics Programming(Python)
+      achieved: 3.68 (Grade A+)
       outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
+    - name: Data Management for Business Analytics(SQL)
+      achieved: 3.72 (Grade A+)
+      outOf: 4
+    - name: Topics in Information Technology Management(Cloud computing)
+      achieved: 3.60 (Grade A+)
+      outOf: 4
+    - name: Business Applications of Machine Learning
+      achieved: 3.76 (Grade A+)
+      outOf: 4
+    - name: Descriptive and Predictive Business Analysis
+      achieved: 3.60 (Grade A+)
       outOf: 4
   extracurricularActivities: #(optional)
   - Secured 2nd place in **UBC MBAN Hackathon 2025**, supported by **Google Cloud**.
