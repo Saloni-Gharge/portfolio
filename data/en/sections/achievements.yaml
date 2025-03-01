@@ -30,11 +30,6 @@ achievements:
   summary: Finalist in the Coder of the Semester competition in collaboration with HackerRank and CSI-PCE.
   year: 2021
 
-- title: Runner-Up - INNOVATIONS National Level Project Competition
-  image: /images/sections/achievements/project-competition.png
-  summary: Achieved runner-up position in INNOVATIONS 2021, a prestigious national-level project competition.
-  year: 2021
-
 - title: Award for Academic Excellence
   image: /images/sections/achievements/academic-excellence.jpg
   summary: Secured 1st rank in First-Year Engineering (FE) and recognized for academic excellence.
@@ -43,14 +38,6 @@ achievements:
 - title: 1st Position - Anti-Drug Addiction Speech
   image: /images/sections/achievements/public-speaking.png
   summary: Won 1st position in a solo speech competition on “Anti-Drug Addiction” organized by Mumbai Police.
-
-- title: 1st Rank - Vocabulary Hunt Competition
-  image: /images/sections/achievements/vocabulary.jpg
-  summary: Secured 1st rank in the Vocabulary Hunt Competition organized by the Humanities and Communication Department.
-
-- title: Mathematics Quiz Finalist
-  image: /images/sections/achievements/math-quiz.jpg
-  summary: Finalist in the Mathematics Quiz for two consecutive years.
 
 - title: Govt. of Maharashtra Drawing Grade Examination
   image: /images/sections/achievements/drawing.jpg
