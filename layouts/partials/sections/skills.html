@@ -1,5 +1,3 @@
-<!-- CUSTOM SKILLS.HTML IS LOADED -->
-
 {{ $sectionID := replace (lower .section.name) " " "-"  }}
 {{ if .section.id }}
   {{ $sectionID = .section.id }}
@@ -24,20 +22,13 @@
       {{ end }}
     </div>
   </div>
-  
+  {{ end }}
+
   <div class="container d-flex-block filtr-skills">
     <div class="row" id="skill-card-holder" style="margin-left:unset">
-      
       {{ range .skills }}
-        <div class="filtr-item" data-category="{{ delimit .categories " " }}" 
-             style="{{ if not (in .categories "programming") }}display: none;{{ end }}">
-          {{ partial "cards/skill.html" . }}
-        </div>
+        {{ partial "cards/skill.html" . }}
       {{ end }}
-      
     </div>
   </div>
-  
-  {{ end }} 
-
 </div>
