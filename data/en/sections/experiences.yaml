@@ -17,6 +17,14 @@ experiences:
     logo: /images/sections/experiences/jpl.jpg
     overview: Reliance Jio Platforms Limited is a leading Indian telecommunications and technology company, specializing in data-driven solutions and AI/ML innovations.
   positions:
+   - designation: Data Scientist – Analytics COE (Center of Excellence)
+    start: Feb 2023
+    end: July 2024
+    responsibilities:
+    - Led the Generative AI project to create a Help and Support Chatbot using Retrieval-Augmented Generation (RAG) techniques, automating customer support and reducing manual intervention.
+    - Boosted efficiency and customer satisfaction by 40% by integrating the chatbot with platform features like ticket creation and past ticket status retrieval, significantly reducing ticket volumes and improving resolution times.
+    - Achieved 60% cost savings and drove productivity improvements by leveraging the chatbot’s AI-driven framework, directly contributing to revenue generation and operational efficiency.
+    
   - designation: Software Development Engineer – System of Big Data
     start: July 2022
     end: Jan 2023
@@ -26,10 +34,3 @@ experiences:
     - Enhanced AI/ML workflow management through Kubeflow Pipelines, enabling end-to-end processes for data exploration, model training, serving, and versioning, resulting in streamlined machine learning lifecycle operations.
     - Acted as the Single Point of Contact for platform enhancements, fostering cross-functional collaboration and ensuring timely delivery of key features.
 
-  - designation: Data Scientist – Analytics COE (Center of Excellence)
-    start: Feb 2023
-    end: July 2024
-    responsibilities:
-    - Led the Generative AI project to create a Help and Support Chatbot using Retrieval-Augmented Generation (RAG) techniques, automating customer support and reducing manual intervention.
-    - Boosted efficiency and customer satisfaction by 40% by integrating the chatbot with platform features like ticket creation and past ticket status retrieval, significantly reducing ticket volumes and improving resolution times.
-    - Achieved 60% cost savings and drove productivity improvements by leveraging the chatbot’s AI-driven framework, directly contributing to revenue generation and operational efficiency.
