@@ -39,35 +39,24 @@ experiences:
     - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Reliance Jio Platforms Limited
+    location: Mumbai, India
+    logo: /images/sections/experiences/company1.jpg
+    overview: Reliance Jio Platforms Limited is a leading Indian telecommunications and technology company, specializing in data-driven solutions and AI/ML innovations.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Software Development Engineer – System of Big Data
+    start: 2022
+    end: 2024
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Delivered an award-winning data science platform, recognized with the Business Excellence Award (2023), by developing and deploying a seamless integration of Jio Data Science Platform (JDSP) with Google’s open-source Kubeflow.
+    - Improved efficiency by 70% for data scientists by implementing 8 major features, including JupyterLab transformation for multiple kernels (Spark, PySpark, Hive), secure file transfers with HDFS, and intuitive Livy session management, making the platform a one-stop solution for data science needs.
+    - Enhanced AI/ML workflow management through Kubeflow Pipelines, enabling end-to-end processes for data exploration, model training, serving, and versioning, resulting in streamlined machine learning lifecycle operations.
+    - Acted as the Single Point of Contact for platform enhancements, fostering cross-functional collaboration and ensuring timely delivery of key features.
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Data Scientist – Analytics COE (Center of Excellence)
+    start: 2022
+    end: 2024
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Led the Generative AI project to create a Help and Support Chatbot using Retrieval-Augmented Generation (RAG) techniques, automating customer support and reducing manual intervention.
+    - Boosted efficiency and customer satisfaction by 40% by integrating the chatbot with platform features like ticket creation and past ticket status retrieval, significantly reducing ticket volumes and improving resolution times.
+    - Achieved 60% cost savings and drove productivity improvements by leveraging the chatbot’s AI-driven framework, directly contributing to revenue generation and operational efficiency.
