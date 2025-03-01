@@ -10,33 +10,16 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Microsoft Certified - Azure AI Fundamentals
-  timeline: "Oct 2024"
+- name: **Microsoft Certifications**
+  timeline: "2020 - 2024"
   organization:
     name: Microsoft
-    url: https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/
+    url: https://learn.microsoft.com/
   courseOverview: |
-    Earned Microsoft Azure AI Fundamentals certification, demonstrating knowledge of AI and machine learning concepts on Azure.
-    Key topics covered:
-      - Artificial Intelligence workloads and considerations
-      - Fundamental principles of machine learning on Azure
-      - Features of computer vision workloads on Azure
-      - Features of Natural Language Processing (NLP) workloads on Azure
-      - Features of generative AI workloads on Azure
-  certificateURL: "https://drive.google.com/file/d/1IcCv5jpnhS8iI_gVH7O2wnKFGeC78b1Q/view?usp=drive_link"
-
-- name: Microsoft AI Classroom Series
-  timeline: "Oct 2020"
-  organization:
-    name: Microsoft in association with nasscom FutureSkills Prime and GitHub
-    url: https://www.microsoft.com/
-  courseOverview: |
-    Completed the Microsoft AI Classroom Series, an initiative to train 1M students over 12 months.
-    Modules covered:
-      - **Module 1:** Data Science and AI Fundamentals, Responsible AI
-      - **Module 2:** Azure AI and Machine Learning, Visual Designer, Automated ML
-      - **Module 3:** AI Services and Q&A Marker
-  certificateURL: "https://drive.google.com/file/d/1VJCDmaI4QwIZy12s5ZfN6tv_kBHt-Oig/view?usp=drive_link"
+    Earned **Microsoft AI and Azure Certifications**, demonstrating expertise in AI, ML, and cloud computing.
+    - **Microsoft Certified - Azure AI Fundamentals (Oct 2024)**: Earned Microsoft Azure AI 900 Fundamentals certification, covering AI workloads, machine learning, computer vision, NLP, and generative AI on Azur
+    - **Microsoft AI Classroom Series (Oct 2020)**: Completed the Microsoft AI Classroom Series, gaining expertise in Data Science, AI fundamentals, Azure AI, Machine Learning, and AI services.
+  certificateURL: "https://drive.google.com/drive/folders/1KS4V9W1My9qTdGJsJ0hMjfwQb50cIFth?usp=drive_link"
 
 - name: Python Specialization - University of Michigan (Coursera)
   timeline: "June 2020"
