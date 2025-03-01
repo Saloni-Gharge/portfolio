@@ -8,39 +8,85 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Microsoft Certified - Azure AI Fundamentals
+  timeline: "Oct 2024"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Microsoft
+    url: https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/
+  courseOverview: |
+    Earned Microsoft Azure AI Fundamentals certification, demonstrating knowledge of AI and machine learning concepts on Azure.
+    Key topics covered:
+      - Artificial Intelligence workloads and considerations
+      - Fundamental principles of machine learning on Azure
+      - Features of computer vision workloads on Azure
+      - Features of Natural Language Processing (NLP) workloads on Azure
+      - Features of generative AI workloads on Azure
+  certificateURL: "https://drive.google.com/file/d/1IcCv5jpnhS8iI_gVH7O2wnKFGeC78b1Q/view?usp=drive_link"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Microsoft AI Classroom Series
+  timeline: "Oct 2020"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: Microsoft in association with nasscom FutureSkills Prime and GitHub
+    url: https://www.microsoft.com/
+  courseOverview: |
+    Completed the Microsoft AI Classroom Series, an initiative to train 1M students over 12 months.
+    Modules covered:
+      - **Module 1:** Data Science and AI Fundamentals, Responsible AI
+      - **Module 2:** Azure AI and Machine Learning, Visual Designer, Automated ML
+      - **Module 3:** AI Services and Q&A Marker
+  certificateURL: "https://drive.google.com/file/d/1VJCDmaI4QwIZy12s5ZfN6tv_kBHt-Oig/view?usp=drive_link"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: Python Specialization - University of Michigan (Coursera)
+  timeline: "June 2020"
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: University of Michigan - Coursera
+    url: https://www.coursera.org/specializations/python
+  courseOverview: |
+    This specialization covered core programming concepts and data handling techniques using Python.
+    Courses included:
+      - Programming for Everybody (Getting Started with Python)
+      - Python Data Structures
+      - Using Python to Access Web Data
+      - Using Databases with Python
+      - Capstone: Retrieving, Processing, and Visualizing Data with Python
+  certificateURL: "https://drive.google.com/drive/folders/188EQvQ7L-miAxTdsrJUPPlJZbWVWWrxh?usp=drive_link"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Web Application Specialization - University of Michigan (Coursera)
+  timeline: "June 2020"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
-  certificateURL: "https://example.com"
- 
+    name: University of Michigan - Coursera
+    url: https://www.coursera.org/specializations/web-applications
+  courseOverview: |
+    Gained expertise in building interactive web applications using PHP, SQL, JavaScript, jQuery, and JSON.
+    Courses included:
+      - Building Web Applications in PHP
+      - Introduction to Structured Query Language (SQL)
+      - Building Database Applications in PHP
+      - JavaScript, jQuery, and JSON
+  certificateURL: "https://drive.google.com/drive/folders/1Ol-B55PX_NDU5RacfeQeb07ApDbdR7hb?usp=drive_link"
 
+- name: Datacamp - Introduction to SQL and Intermediate SQL
+  timeline: "Nov 2024"
+  organization:
+    name: DataCamp
+    url: https://www.datacamp.com
+  courseOverview: |
+    Completed SQL fundamentals and intermediate courses, focusing on:
+      - Writing and optimizing queries
+      - Data retrieval, joins, and subqueries
+      - Working with databases for analysis
+  certificateURL: "https://drive.google.com/drive/folders/1h-VoVjFvH83D_RhGfYwzixRKJ8W-xFU6?usp=drive_link"
+
+- name: Datacamp - Introduction to Python, Intermediate Python, and Data Science for Business
+  timeline: "Aug 2024"
+  organization:
+    name: DataCamp
+    url: https://www.datacamp.com
+  courseOverview: |
+    Developed strong Python programming skills with a focus on:
+      - Python fundamentals and data structures
+      - Object-oriented programming and file handling
+      - Data science applications for business
+  certificateURL: "https://drive.google.com/drive/folders/1VAMqMUzp5X2i8t4ok7n7TpgojfucqDb1?usp=drive_link"
