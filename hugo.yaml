@@ -1,7 +1,7 @@
 baseURL: https://saloni-gharge.github.io/SaloniGharge.github.io/
 
 languageCode: en
-title: "Saloni's Blog"
+title: "Saloni's Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Saloni's Blog"
+    title: "Saloni's Portfolio"
     weight: 1
   bn:
     languageCode: bn
