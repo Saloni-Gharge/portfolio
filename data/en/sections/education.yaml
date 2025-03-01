@@ -16,7 +16,7 @@ degrees:
   institution:
     name: University of British Columbia
     url: "https://www.sauder.ubc.ca/programs/masters-degrees/mban?gad_source=1&gclid=EAIaIQobChMIjovq-NroiwMVQSKtBh0hNBABEAAYASAAEgIwm_D_BwE&gclsrc=aw.ds"
-    logo: /images/sections/education/ubc.jpg
+    logo: /images/sections/education/ubc.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
   grade: #(optional)
