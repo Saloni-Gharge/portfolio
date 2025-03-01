@@ -90,3 +90,17 @@ accomplishments:
       - Object-oriented programming and file handling
       - Data science applications for business
   certificateURL: "https://drive.google.com/drive/folders/1VAMqMUzp5X2i8t4ok7n7TpgojfucqDb1?usp=drive_link"
+
+- name: **DataCamp - Python & SQL Specialization**
+  timeline: "2024"
+  organization:
+    name: DataCamp
+    url: https://www.datacamp.com
+  courseOverview: |
+    Completed **multiple courses in Python & SQL**, gaining hands-on experience in Data Science and Database Management.
+    - **SQL Specialization (Nov 2024)**  
+      - SQL fundamentals, joins, subqueries, data analysis  
+      - [Certificate Link](https://drive.google.com/drive/folders/1h-VoVjFvH83D_RhGfYwzixRKJ8W-xFU6?usp=drive_link)  
+    - **Python Specialization (Aug 2024)**  
+      - Python programming, Data Science for Business  
+      - [Certificate Link](https://drive.google.com/drive/folders/1VAMqMUzp5X2i8t4ok7n7TpgojfucqDb1?usp=drive_link)
