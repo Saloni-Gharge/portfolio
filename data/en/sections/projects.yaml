@@ -79,10 +79,3 @@ projects:
   timeline: "2020"
   summary: Developed an e-commerce website for society essential commodities, integrating database management and UI/UX design.
   tags: ["digital-ai"]
-
-- name: Business Immersion Week: Planetary Health
-  logo: /images/sections/projects/planetary-health.png
-  role: Sustainability Analyst
-  timeline: "2023"
-  summary: Proposed strategies for hospitals to reduce animal-based foods and promote plant-based diets for health and sustainability.
-  tags: ["sustainability"]
