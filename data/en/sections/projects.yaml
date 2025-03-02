@@ -12,54 +12,77 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: Optimization
+  filter: "optimization"
+- name: Visualization & Data Analysis
+  filter: "visualization-data-analysis"
+- name: Digital Solutions & AI
+  filter: "digital-ai"
+- name: Sustainability
+  filter: "sustainability"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: Diet Optimization Project - Feeding Hope Initiative
+  logo: /images/sections/projects/diet-optimization.png
+  role: Optimization Specialist
+  timeline: "2023"
+  summary: Used linear programming to develop a cost-effective, nutritionally balanced meal plan to address child malnutrition.
+  tags: ["optimization"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+- name: Kidney Exchange Optimization
+  logo: /images/sections/projects/kidney-exchange.png
+  role: Researcher
+  timeline: "2023"
+  summary: Modeled and solved an optimization problem to maximize kidney transplant matches using Python and Gurobi.
+  tags: ["optimization"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Understanding Yelp Reviews in Vancouver
+  logo: /images/sections/projects/yelp.png
+  role: Data Analyst
+  timeline: "2024"
+  summary: Analyzed Yelp Vancouver dataset to explore restaurant trends, review patterns, and user engagement.
+  tags: ["visualization-data-analysis"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: The Impact of Remote Work on Employees' Mental Well-being
+  logo: /images/sections/projects/remote-work.png
+  role: Data Analyst
+  timeline: "2023"
+  summary: Studied work-life balance, social isolation, and mental health trends through Tableau visualizations.
+  tags: ["visualization-data-analysis"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/toha_website.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Pharmaceutical Marketing Assessment
+  logo: /images/sections/projects/pharma-marketing.png
+  role: Business Analyst
+  timeline: "2023"
+  summary: Analyzed the effectiveness of marketing strategies on drug sales performance, identifying key sales drivers.
+  tags: ["visualization-data-analysis"]
+
+- name: Industry Analysis using Python
+  logo: /images/sections/projects/industry-analysis.png
+  role: Business Analyst
+  timeline: "Oct 2023 - Dec 2023"
+  summary: Conducted quantitative and text analysis of the Engineering & Research industry using Python, Word2Vec, and NLP techniques.
+  tags: ["visualization-data-analysis"]
+
+- name: Predicting Customer Churn in the Telecom Industry
+  logo: /images/sections/projects/churn.png
+  role: Data Scientist
+  timeline: "Jan 2024 - Present"
+  repo: ""  # Add repo link if available
+  summary: A data-driven approach using machine learning to predict customer churn in telecom and optimize retention strategies.
+  tags: ["digital-ai"]
+
+- name: Online Portal for Society Essential Commodities
+  logo: /images/sections/projects/ecommerce.png
+  role: Web Developer
+  timeline: "2020"
+  summary: Developed an e-commerce website for society essential commodities, integrating database management and UI/UX design.
+  tags: ["digital-ai"]
+
+- name: Business Immersion Week: Planetary Health
+  logo: /images/sections/projects/planetary-health.png
+  role: Sustainability Analyst
+  timeline: "2023"
+  summary: Proposed strategies for hospitals to reduce animal-based foods and promote plant-based diets for health and sustainability.
+  tags: ["sustainability"]
