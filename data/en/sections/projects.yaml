@@ -28,68 +28,65 @@ projects:
   role: Optimization Specialist
   timeline: "2023"
   summary: Used linear programming to develop a cost-effective, nutritionally balanced meal plan to address child malnutrition.
-  tags: ["optimization", "data-science", "community-impact"]
+  tags: ["optimization"]
 
 - name: Kidney Exchange Optimization
   logo: /images/sections/projects/kidney-exchange.png
   role: Researcher
   timeline: "2023"
   summary: Modeled and solved an optimization problem to maximize kidney transplant matches using Python and Gurobi.
-  tags: ["optimization", "healthcare", "mathematical-modeling"]
+  tags: ["optimization"]
 
 ## 🔹 Visualization & Data Analysis Projects
-projects:
 - name: Understanding Yelp Reviews in Vancouver
   logo: /images/sections/projects/yelp.png
   role: Data Analyst
   timeline: "2024"
   summary: Analyzed Yelp Vancouver dataset to explore restaurant trends, review patterns, and user engagement.
-  tags: ["visualization-data-analysis", "data-science", "text-analysis"]
+  tags: ["visualization-data-analysis"]
 
 - name: The Impact of Remote Work on Employees' Mental Well-being
   logo: /images/sections/projects/remote-work.png
   role: Data Analyst
   timeline: "2023"
   summary: Studied work-life balance, social isolation, and mental health trends through Tableau visualizations.
-  tags: ["visualization-data-analysis", "tableau", "mental-health"]
+  tags: ["visualization-data-analysis"]
 
 - name: Pharmaceutical Marketing Assessment
   logo: /images/sections/projects/pharma-marketing.png
   role: Business Analyst
   timeline: "2023"
   summary: Analyzed the effectiveness of marketing strategies on drug sales performance, identifying key sales drivers.
-  tags: ["visualization-data-analysis", "business-analysis", "marketing-analytics"]
+  tags: ["visualization-data-analysis"]
 
 - name: Industry Analysis using Python
   logo: /images/sections/projects/industry-analysis.png
   role: Business Analyst
   timeline: "Oct 2023 - Dec 2023"
   summary: Conducted quantitative and text analysis of the Engineering & Research industry using Python, Word2Vec, and NLP techniques.
-  tags: ["visualization-data-analysis", "data-science", "business-analysis"]
+  tags: ["visualization-data-analysis"]
 
 ## 🔹 Digital Solutions & AI Projects
-projects:
 - name: Predicting Customer Churn in the Telecom Industry
   logo: /images/sections/projects/churn.png
   role: Data Scientist
   timeline: "Jan 2024 - Present"
   repo: ""  # Add repo link if available
   summary: A data-driven approach using machine learning to predict customer churn in telecom and optimize retention strategies.
-  tags: ["digital-ai", "machine-learning", "business-analysis"]
+  tags: ["digital-ai"]
 
 - name: Online Portal for Society Essential Commodities
   logo: /images/sections/projects/ecommerce.png
   role: Web Developer
   timeline: "2020"
   summary: Developed an e-commerce website for society essential commodities, integrating database management and UI/UX design.
-  tags: ["digital-ai", "web-dev", "ecommerce"]
+  tags: ["digital-ai"]
 
 ## 🔹 Sustainability Projects
-projects:
 - name: Business Immersion Week: Planetary Health
   logo: /images/sections/projects/planetary-health.png
   role: Sustainability Analyst
   timeline: "2023"
   summary: Proposed strategies for hospitals to reduce animal-based foods and promote plant-based diets for health and sustainability.
-  tags: ["sustainability", "business-analysis", "healthcare"]
+  tags: ["sustainability"]
 
