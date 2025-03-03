@@ -27,6 +27,7 @@ projects:
   logo: /images/sections/projects/diet-optimization.png
   role: Optimization Specialist
   timeline: "2023"
+  repo: https://github.com/Saloni-Gharge/Diet-Optimization
   summary: Used linear programming to develop a cost-effective, nutritionally balanced meal plan to address child malnutrition.
   tags: ["optimization", "community-impact"]
 
@@ -34,6 +35,7 @@ projects:
   logo: /images/sections/projects/kidney-exchange.png
   role: Researcher
   timeline: "2023"
+  repo: https://github.com/Saloni-Gharge/Kidney-Exchange-Optimization
   summary: Modeled and solved an optimization problem to maximize kidney transplant matches using Python and Gurobi.
   tags: ["optimization", "healthcare", "mathematical-modeling"]
 
@@ -41,6 +43,7 @@ projects:
   logo: /images/sections/projects/yelp.png
   role: Data Analyst
   timeline: "2024"
+  repo: https://github.com/Saloni-Gharge/Yelp-Reviews-Analysis/blob/main/Yelp%20review%20vancouver.pdf
   summary: Analyzed Yelp Vancouver dataset to explore restaurant trends, review patterns, and user engagement.
   tags: ["visualization-data-analysis", "customer-analysis"]
 
@@ -48,6 +51,7 @@ projects:
   logo: /images/sections/projects/remote-work.png
   role: Data Analyst
   timeline: "2023"
+  repo: https://github.com/Saloni-Gharge/Mind-over-Monitor/blob/main/Report.pdf
   summary: Studied work-life balance, social isolation, and mental health trends through Tableau visualizations.
   tags: ["visualization-data-analysis", "tableau", "mental-health"]
 
@@ -55,6 +59,7 @@ projects:
   logo: /images/sections/projects/pharma-marketing.png
   role: Business Analyst
   timeline: "2023"
+  repo: https://github.com/Saloni-Gharge/Pharmaceutical-Marketing
   summary: Analyzed the effectiveness of marketing strategies on drug sales performance, identifying key sales drivers.
   tags: ["visualization-data-analysis", "marketing-analytics"]
 
@@ -62,6 +67,7 @@ projects:
   logo: /images/sections/projects/industry-analysis.png
   role: Business Analyst
   timeline: "Oct 2023 - Dec 2023"
+  repo: https://github.com/Saloni-Gharge/Industry-Analysis-Using-Python
   summary: Conducted quantitative and text analysis of the Engineering & Research industry using Python, Word2Vec, and NLP techniques.
   tags: ["visualization-data-analysis", "data-science", "business-analysis"]
 
@@ -69,7 +75,7 @@ projects:
   logo: /images/sections/projects/churn.png
   role: Data Scientist
   timeline: "Jan 2024 - Present"
-  repo: ""  # Add repo link if available
+  repo: https://github.com/Saloni-Gharge/Customer-Churn-Prediction/tree/main
   summary: A data-driven approach using machine learning to predict customer churn in telecom and optimize retention strategies.
   tags: ["digital-ai", "machine-learning", "business-analysis"]
 
@@ -77,7 +83,7 @@ projects:
   logo: /images/sections/projects/ecommerce.png
   role: Web Developer
   timeline: "2020"
-  url: https://photos.app.goo.gl/e4uBbXBbNEJsb3bJ7
+  url: "https://photos.app.goo.gl/e4uBbXBbNEJsb3bJ7"
   summary: Developed an e-commerce website for society essential commodities, integrating database management and UI/UX design.
   tags: ["digital-ai", "web-dev", "ecommerce"]
 
