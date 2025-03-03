@@ -80,19 +80,23 @@ Beyond healthcare, **Quranntino** can be adapted for various industries:
 
 Our approach involved multiple layers of **data collection, processing, and visualization**:
 
-1️⃣ **Data Collection**  
+1️. **Data Collection**  
    - BLE **receivers** track patient movement.  
    - Wearable **bands measure temperature & touch sensor activity**.  
 
-2️⃣ **Real-time Data Processing**  
+2️. **Real-time Data Processing**  
    - Firebase **stores & analyzes live patient data**.  
    - Alerts are **triggered instantly** upon any policy breach.  
 
-3️⃣ **Visualization & Dashboard**  
+3️. **Visualization & Dashboard**  
    - Hospital authorities monitor **live location & alerts** via a **secure web app**.  
 
 ---
+## Project Demonstration  
 
+{{< video src="https://drive.google.com/uc?id=1KrA-JLjkPMN8VLYbk23CvnNTNe0pKHVu" >}}
+
+---
 ## 🏆 Achievements & Recognition  
 
 **Semi-Finalists – Deep Blue Hackathon 2021 (Mastek)**  
@@ -104,9 +108,8 @@ Our approach involved multiple layers of **data collection, processing, and visu
 
 ---
 
-## Demo & Source Code  
+## Source Code  
 
-**GitHub Repository:** [Indoor Positioning & Geofencing System](https://github.com/Saloni-Gharge/indoor-positioning)  
-**Project Demonstration Video:** [Watch Here](https://drive.google.com/drive/folders/1KrA-JLjkPMN8VLYbk23CvnNTNe0pKHVu)  
+📌 **GitHub Repository:** [Indoor Positioning & Geofencing System](https://github.com/Saloni-Gharge/indoor-positioning)  
 
 **Quranntino is a step forward in using IoT for public health & safety!**  
