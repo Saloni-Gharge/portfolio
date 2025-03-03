@@ -2,6 +2,13 @@
 title: "Quranntino: Indoor Positioning and Geofencing System for Covid Hospitals"
 date: 2021-06-15T00:00:00+00:00
 description: "A smart IoT-based geofencing and patient monitoring system designed to ensure safety and efficiency in Covid hospitals."
+menu:
+  sidebar:
+    name: Project Quranntino
+    identifier: quranntino
+    weight: 30
+hero: "indoor.png"
+mermaid: true
 author:
   name: Saloni Gharge
   image: /images/author/saloni.png
