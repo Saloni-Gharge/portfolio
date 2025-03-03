@@ -25,6 +25,7 @@ buttons:
 projects:
 - name: Diet Optimization Project - Feeding Hope Initiative
   logo: /images/sections/projects/diet-optimization.png
+  image: /images/sections/projects/diet-optimization.png
   role: Optimization Specialist
   timeline: "2023"
   repo: https://github.com/Saloni-Gharge/Diet-Optimization
