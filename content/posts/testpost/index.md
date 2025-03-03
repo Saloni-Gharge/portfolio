@@ -1,80 +1,105 @@
-## About Learning Analytics Hackathon
+---
+title: "Quranntino: Indoor Positioning and Geofencing System for Covid Hospitals"
+date: 2021-06-15T00:00:00+00:00
+description: "A smart IoT-based geofencing and patient monitoring system designed to ensure safety and efficiency in Covid hospitals."
+author:
+  name: Saloni Gharge
+  image: /images/author/saloni.png
+timeToRead: 6 minutes
+tags: ["IoT", "Geofencing", "Healthcare", "Covid-19", "BLE"]
+repo: "https://github.com/Saloni-Gharge/indoor-positioning"
+video: "https://drive.google.com/drive/folders/1KrA-JLjkPMN8VLYbk23CvnNTNe0pKHVu"
+---
 
-The **2024 Learning Analytics Hackathon** was an exciting opportunity to collaborate with a team of five talented peers to tackle real-world challenges in education using **data analytics**. Hosted at the **UBC Sauder Learning Labs**, this **10th edition hackathon** challenged us to leverage **Canvas discussion data** creatively to improve teaching and learning experiences. It was an incredible experience where we combined **technical skills, teamwork, and innovation** to make a meaningful impact.
+## Overview  
 
-## Our Challenge
+**Quranntino** is an innovative **Indoor Positioning and Geofencing System** designed to monitor **Covid-19 patients** within hospital premises. The system utilizes **Bluetooth Low Energy (BLE) bands** and strategically placed **receivers** to ensure **real-time tracking** of patients. If a patient attempts to **breach the geofence** or **remove the band**, an **instant alert** is sent to hospital authorities via a **web application**.  
 
-In a **time-constrained 5-hour hackathon**, our team analyzed **Canvas discussion data** from UBC’s learning management system to uncover actionable insights into **student engagement, collaboration, and learning progress**. The objective was to design and build a tool that could empower **instructors and researchers** to better understand student behavior and optimize the learning environment.
+This solution was developed to **support frontline healthcare workers** by improving **patient monitoring, security, and resource allocation** during the pandemic.  
 
-## Problem Identified
+**Key Technologies Used:**  
+- **Bluetooth Low Energy (BLE) Beacons** for tracking  
+- **ESP32 microcontroller** for smart wearable bands  
+- **Firebase Authentication & Real-Time Database**  
+- **Dynamic Web Application** with an intuitive UI  
 
-Our team focused on **two key challenges** within Canvas discussions:
+---
 
-### 🔹 Repetitive Questions in Discussions  
-Students often raise **similar questions or discussion topics**, making it difficult to **identify recurring themes** or extract useful insights manually.  
+## Why This Solution?  
 
-### 🔹 Teaching Efficiency  
-Instructors frequently need to **answer the same questions repeatedly**, which consumes valuable time and reduces teaching efficiency.  
+### Cost-Effective Implementation  
+- **BLE Receivers:** ₹365 per unit *(3 receivers = ₹1,095/-)*  
+- **Wearable Band Components:**  
+  - **ESP32:** ₹365  
+  - **Battery:** ₹250  
+  - **Touch Sensor:** ₹23  
+  - **Temperature/Pulse Sensor:** ₹73  
+  - **Watch Strap:** ₹20  
+  - **Total per band:** ₹731/- *(For 2 bands = ₹1,462/-)*  
+- **Overall cost:** ₹2,557/- *(affordable for hospitals)*  
 
-## Proposed Solutions  
+### Low Power Consumption  
+- BLE technology ensures **minimal battery drain** while maintaining high accuracy.  
 
-To address these challenges, we developed **two core features**:
+### Indoor Positioning & Security  
+- **More reliable than GPS** in enclosed hospital environments.  
+- **Real-time alerts** for unauthorized patient movement.  
 
-### 1️⃣ Keyword Filter & Search  
-🔹 Allows users to **filter discussion topics by specific keywords**, making it easier to **locate relevant threads** and streamline navigation.  
+---
 
-### 2️⃣ Suggesting Similar Discussions  
-🔹 Recommends **related discussion posts** from history, enabling users to **access contextually similar conversations** and reduce redundancy.
+## Features  
 
-## Methodology  
+**Geofencing Alert System:** Triggers **instant alerts** if a patient tries to **exit the geofenced zone**.  
+**Health Monitoring:** Tracks **vital parameters** (temperature, pulse) through wearable bands.  
+**Dynamic & Responsive Web Application:** Provides **real-time tracking** and **visualization** for hospital administrators.  
+**Secure Authentication:** Uses **Firebase Auth** to restrict unauthorized access.  
+**Low Power Consumption:** Optimized **battery usage** for continuous operation.  
 
-Our team followed a **structured methodology** to extract insights and propose a **data-driven solution**:
+---
 
-1️⃣ **Profiling Each Discussion**  
-   - Retrieved metadata and participation details using **Canvas APIs**.  
+## Additional Use Cases  
 
-2️⃣ **Calculating Key Discussion Attributes**  
-   - Analyzed engagement metrics, including **reply depth** and **number of responses**.  
+Beyond healthcare, **Quranntino** can be adapted for various industries:  
 
-3️⃣ **Text Concatenation and Cleansing**  
-   - Combined discussion thread text and **removed noise** for improved analysis.  
+**Corporate Security** – Track employees within office premises.  
+**Retail Stores** – Gain insights into **customer navigation & behavior**.  
+**Healthcare** – Monitor **dementia and Alzheimer's patients**.  
+**Prison Security** – **Geofencing for inmate tracking**.  
+**Asset Tracking** – Monitor **expensive instruments & equipment** in real time.  
 
-4️⃣ **Keyword Extraction**  
-   - Used **TF-IDF and Word2Vec models** to identify the most relevant discussion keywords.  
+---
 
-5️⃣ **Similarity Analysis**  
-   - Designed a **recommendation system** to suggest **similar discussions** based on extracted keywords.
+## System Architecture  
 
-## Data Visualization  
+Our approach involved multiple layers of **data collection, processing, and visualization**:
 
-To showcase our analysis results, we implemented **two key visualizations**:
+1️⃣ **Data Collection**  
+   - BLE **receivers** track patient movement.  
+   - Wearable **bands measure temperature & touch sensor activity**.  
 
-### 📌 Similarity Score for Keywords  
+2️⃣ **Real-time Data Processing**  
+   - Firebase **stores & analyzes live patient data**.  
+   - Alerts are **triggered instantly** upon any policy breach.  
 
-A table displaying **input words and their most similar words**, helping users find **related topics** faster.  
+3️⃣ **Visualization & Dashboard**  
+   - Hospital authorities monitor **live location & alerts** via a **secure web app**.  
 
-| Input Word  | Similar Words & Scores |
-|-------------|------------------------|
-| Mustard     | Ketchup (0.9949), Tangy (0.9920) |
-| Ketchup     | Mustard (0.9949), Taste (0.9937) |
-| Fries       | Sandwiches (0.9974), Great (0.9972) |
+---
 
-🔹 Generated using **Word2Vec**, this model provides insights into **semantic relationships between terms**.
+## 🏆 Achievements & Recognition  
 
-### 📊 Discussion Keyword Similarity Heatmap  
+**Semi-Finalists – Deep Blue Hackathon 2021 (Mastek)**  
+   - A **3-4 month engagement** offering industry mentorship to tackle real-world **social challenges**.  
+   - Focused on **bridging academic knowledge & industry practices**.  
 
-A **heatmap visualization** highlighting discussion topic similarity based on extracted keywords.
+**2nd Place – National Level Project Competition: Innovations 2021**  
+   - Recognized for **technological impact & healthcare innovation**.  
 
-#### Key Observations:
-✅ **High similarity scores** (dark red) indicate **closely related topics**, such as:  
-   - **"Ketchup or Mustard?"** vs. **"General Hackathon Questions"**  
+---
 
-✅ **Low similarity scores** (blue) highlight **less related topics**, such as:  
-   - **"Introduce yourself and your team"** vs. **"Data Questions"**
+## Demo & Source Code  
 
-## Final Thoughts  
+**GitHub Repository:** [Indoor Positioning & Geofencing System](https://github.com/Saloni-Gharge/indoor-positioning)  
+**Project Demonstration Video:** [Watch Here](https://drive.google.com/drive/folders/1KrA-JLjkPMN8VLYbk23CvnNTNe0pKHVu)  
 
-This hackathon provided **valuable experience** in **real-world data analysis**, **machine learning for education**, and **collaborative problem-solving**. By leveraging **NLP models and data visualization**, we built a solution that could **enhance student engagement and instructor efficiency** in learning management systems.
-
-🚀 **Excited to explore more projects at the intersection of AI, data, and education!** 🎓  
-
+**Quranntino is a step forward in using IoT for public health & safety!**  
