@@ -77,6 +77,7 @@ projects:
   logo: /images/sections/projects/ecommerce.png
   role: Web Developer
   timeline: "2020"
+  url: https://photos.app.goo.gl/e4uBbXBbNEJsb3bJ7
   summary: Developed an e-commerce website for society essential commodities, integrating database management and UI/UX design.
   tags: ["digital-ai", "web-dev", "ecommerce"]
 
@@ -84,6 +85,6 @@ projects:
   logo: /images/sections/projects/planetary-health.png
   role: Sustainability Analyst
   timeline: "2023"
-  repo: https://github.com/hossainemruz/toha
+  repo: https://github.com/Saloni-Gharge/Plantenary-Health-in-Medicine/blob/main/Planetary_Health_diet.pdf
   summary: Proposed strategies for hospitals to reduce animal-based foods and promote plant-based diets for health and sustainability.
   tags: ["sustainability", "healthcare"]
