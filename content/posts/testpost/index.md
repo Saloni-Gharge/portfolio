@@ -94,7 +94,7 @@ Our approach involved multiple layers of **data collection, processing, and visu
 ---
 ## Project Demonstration  
 
-{{< video src="https://drive.google.com/uc?id=1KrA-JLjkPMN8VLYbk23CvnNTNe0pKHVu" >}}
+{{< video src="https://drive.google.com/file/d/1Hd-DuI_sWfwvVtLRg0ONkhLmxlLQG5kv/view?usp=drive_link" >}}
 
 ---
 ## 🏆 Achievements & Recognition  
