@@ -8,6 +8,7 @@ menu:
     name: "Learning Analytics Hackathon"
     identifier: "learning-analytics"
     weight: 6
+mermaid: true
 author:
   name: Saloni Gharge
   image: "/images/author/saloni.png"
@@ -66,9 +67,4 @@ To improve long-term teaching efficiency, we proposed an archival system for fre
 - **Enhanced engagement** through automated insights.  
 
 This hackathon reinforced the power of AI & data analytics in education. Excited for more innovation ahead!  
-
----
-
-## **Project Presentation:**  
-{{< google-drive id="1CSUrEncvawvoY_fobYfX1Lz5S5C1BiPp" >}}  
 
