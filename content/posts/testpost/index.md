@@ -59,11 +59,9 @@ Our approach involved multiple layers of data collection, processing, and visual
 ---
 ## Project Demonstration  
 
-{{< rawhtml >}}
 <iframe src="https://drive.google.com/file/d/1Hd-DuI_sWfwvVtLRg0ONkhLmxlLQG5kv/preview" 
         width="800" height="450" allowfullscreen>
 </iframe>
-{{< /rawhtml >}}
 
 ---
 ## Why This Solution?  
