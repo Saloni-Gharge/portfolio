@@ -20,7 +20,7 @@ video: "https://drive.google.com/drive/folders/1KrA-JLjkPMN8VLYbk23CvnNTNe0pKHVu
 
 ## Overview  
 
-**Quranntino** is an innovative **Indoor Positioning and Geofencing System** designed to monitor **Covid-19 patients** within hospital premises. The system utilizes **Bluetooth Low Energy (BLE) bands** and strategically placed **receivers** to ensure **real-time tracking** of patients. If a patient attempts to **breach the geofence** or **remove the band**, an **instant alert** is sent to hospital authorities via a **web application**.  
+**Quranntino** is an innovative **Indoor Positioning and Geofencing System** designed to monitor Covid-19 patients within hospital premises. The system utilizes Bluetooth Low Energy (BLE) bands and strategically placed receivers to ensure real-time tracking of patients. If a patient attempts to breach the geofence or remove the band, an instant alert is sent to hospital authorities via a web application.  
 
 This solution was developed to **support frontline healthcare workers** by improving **patient monitoring, security, and resource allocation** during the pandemic.  
 
@@ -31,7 +31,41 @@ This solution was developed to **support frontline healthcare workers** by impro
 - **Dynamic Web Application** with an intuitive UI  
 
 ---
+## Features  
 
+**Geofencing Alert System:** Triggers instant alerts if a patient tries to exit the geofenced zone.  
+**Health Monitoring:** Tracks vital parameters (temperature, pulse) through wearable bands.  
+**Dynamic & Responsive Web Application:** Provides real-time tracking and visualization for hospital administrators.  
+**Secure Authentication:** Uses Firebase Auth to restrict unauthorized access.  
+**Low Power Consumption:** Optimized battery usage for continuous operation.  
+
+---
+
+## System Architecture  
+
+Our approach involved multiple layers of data collection, processing, and visualization:
+
+1️. **Data Collection**  
+   - BLE receivers track patient movement.  
+   - Wearable bands measure temperature & touch sensor activity.  
+
+2️. **Real-time Data Processing**  
+   - Firebase stores & analyzes live patient data.  
+   - Alerts are triggered instantly upon any policy breach.  
+
+3️. **Visualization & Dashboard**  
+   - Hospital authorities monitor live location & alerts via a secure web app.  
+
+---
+## Project Demonstration  
+
+{{< rawhtml >}}
+<iframe src="https://drive.google.com/file/d/1Hd-DuI_sWfwvVtLRg0ONkhLmxlLQG5kv/preview" 
+        width="800" height="450" allowfullscreen>
+</iframe>
+{{< /rawhtml >}}
+
+---
 ## Why This Solution?  
 
 ### Cost-Effective Implementation  
@@ -46,21 +80,11 @@ This solution was developed to **support frontline healthcare workers** by impro
 - **Overall cost:** ₹2,557/- *(affordable for hospitals)*  
 
 ### Low Power Consumption  
-- BLE technology ensures **minimal battery drain** while maintaining high accuracy.  
+- BLE technology ensures minimal battery drain while maintaining high accuracy.  
 
 ### Indoor Positioning & Security  
 - **More reliable than GPS** in enclosed hospital environments.  
 - **Real-time alerts** for unauthorized patient movement.  
-
----
-
-## Features  
-
-**Geofencing Alert System:** Triggers **instant alerts** if a patient tries to **exit the geofenced zone**.  
-**Health Monitoring:** Tracks **vital parameters** (temperature, pulse) through wearable bands.  
-**Dynamic & Responsive Web Application:** Provides **real-time tracking** and **visualization** for hospital administrators.  
-**Secure Authentication:** Uses **Firebase Auth** to restrict unauthorized access.  
-**Low Power Consumption:** Optimized **battery usage** for continuous operation.  
 
 ---
 
@@ -69,42 +93,21 @@ This solution was developed to **support frontline healthcare workers** by impro
 Beyond healthcare, **Quranntino** can be adapted for various industries:  
 
 **Corporate Security** – Track employees within office premises.  
-**Retail Stores** – Gain insights into **customer navigation & behavior**.  
-**Healthcare** – Monitor **dementia and Alzheimer's patients**.  
-**Prison Security** – **Geofencing for inmate tracking**.  
-**Asset Tracking** – Monitor **expensive instruments & equipment** in real time.  
+**Retail Stores** – Gain insights into customer navigation & behavior.  
+**Healthcare** – Monitor dementia and Alzheimer's patients.  
+**Prison Security** – Geofencing for inmate tracking.  
+**Asset Tracking** – Monitor expensive instruments & equipment in real time.  
 
 ---
 
-## System Architecture  
-
-Our approach involved multiple layers of **data collection, processing, and visualization**:
-
-1️. **Data Collection**  
-   - BLE **receivers** track patient movement.  
-   - Wearable **bands measure temperature & touch sensor activity**.  
-
-2️. **Real-time Data Processing**  
-   - Firebase **stores & analyzes live patient data**.  
-   - Alerts are **triggered instantly** upon any policy breach.  
-
-3️. **Visualization & Dashboard**  
-   - Hospital authorities monitor **live location & alerts** via a **secure web app**.  
-
----
-## Project Demonstration  
-
-{{< video src="https://drive.google.com/file/d/1Hd-DuI_sWfwvVtLRg0ONkhLmxlLQG5kv/view?usp=drive_link" >}}
-
----
 ## 🏆 Achievements & Recognition  
 
 **Semi-Finalists – Deep Blue Hackathon 2021 (Mastek)**  
-   - A **3-4 month engagement** offering industry mentorship to tackle real-world **social challenges**.  
-   - Focused on **bridging academic knowledge & industry practices**.  
+   - A 3-4 month engagement offering industry mentorship to tackle real-world social challenges.  
+   - Focused on bridging academic knowledge & industry practices.  
 
 **2nd Place – National Level Project Competition: Innovations 2021**  
-   - Recognized for **technological impact & healthcare innovation**.  
+   - Recognized for technological impact & healthcare innovation in the hardware category.  
 
 ---
 
