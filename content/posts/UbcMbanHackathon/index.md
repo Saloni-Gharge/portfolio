@@ -2,19 +2,18 @@
 title: "Green6Sense - AI-Powered Smart Energy Management"
 date: 2025-03-01
 description: "Our AI-driven solution optimizes energy usage across UBC’s campus, reducing emissions and increasing efficiency."
-green6sense.jpeg
+hero: "green6sense.jpeg"
 menu:
   sidebar:
     name: "Green6Sense"
     identifier: "green6sense"
     weight: 5
-hero: "green6sense.jpeg"
 mermaid: true
 author:
   name: Saloni Gharge
-  image: /images/author/saloni.png
+  image: "/images/author/saloni.png"
 timeToRead: 6 minutes
-tags: ["GoogleCloud", "AI", "Sustainability", "BigQuery", "VertexAI", "LookerStudio", "Hackathon", "Energy Management"]
+tags: ["googlecloud", "ai", "sustainability", "bigquery", "vertexai", "lookerstudio", "hackathon", "energy-management"]
 ---
 
 🚀 Thrilled to share my experience from the recent Sauder MBAN Hackathon 2025, supported by Google Cloud at UBC, where our team, Green6Sense🌱, proudly secured 2nd place!
