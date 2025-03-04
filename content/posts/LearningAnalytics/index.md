@@ -3,7 +3,7 @@ title: "Learning Analytics Hackathon: Tackling Student Engagement Challenges Thr
 date: 2024-10-30
 description: "Optimizing student engagement in UBC’s learning management system using AI and data analytics."
 hero: "learningAnalytics.jpeg"
-menu
+menu:
   sidebar:
     name: "Learning Analytics Hackathon"
     identifier: "learning-analytics"
