@@ -64,33 +64,33 @@ To **advance UBC’s energy efficiency goals** through **data-driven electricity
 **Energy audits** for poor-performing buildings  
 
 ---
-## 📊 Presentation  
+## Presentation  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMBbZxJK0Dyt5oF4_q6xvIDsSAuy0LGoFA_puQOtzHpHi5QZKZvqELhJmwzWTfcA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
 ---
 
-## 📈 Looker Studio Dashboards  
+## Looker Studio Dashboards  
 <iframe src="https://drive.google.com/file/d/1CSUrEncvawvoY_fobYfX1Lz5S5C1BiPp/preview" width="800" height="400" allow="autoplay"></iframe>  
 
 ---
 
-## 🌍 Market Potential  
-Green6Sense isn’t just for UBC—**its impact extends globally!** With rising energy costs and sustainability mandates, the **$20B+ smart energy management market** presents a huge opportunity.
+## Market Potential  
+Green6Sense isn’t just for UBC— its impact extends globally! With rising energy costs and sustainability mandates, the $20B+ smart energy management market presents a huge opportunity.
 
-### 🌎 Potential Users:  
-🏫 **Universities** – Optimize campus energy use  
-🏙️ **Smart Cities** – Reduce urban energy waste  
-🏢 **Corporate Campuses** – Minimize operational costs  
-🏠 **Building Owners** – Enhance efficiency & compliance  
+### Potential Users:  
+**Universities** – Optimize campus energy use  
+**Smart Cities** – Reduce urban energy waste  
+**Corporate Campuses** – Minimize operational costs  
+**Building Owners** – Enhance efficiency & compliance  
 
 ---
 
 ## Next Steps  
 
-1️⃣ **Expand Scope** – Include gas & hot water tracking, integrate GHG-level performance metrics.  
-2️⃣ **Improve Analytics** – Use real-time IoT sensor data & weather insights for more accurate energy predictions.  
-3️⃣ **Assess Potential** – Implement demand response measures & energy-efficient designs.  
-4️⃣ **Develop Roadmap** – Long-term energy efficiency action plan based on industry best practices (e.g., Energy Star).  
+**Expand Scope** – Include gas & hot water tracking, integrate GHG-level performance metrics.  
+**Improve Analytics** – Use real-time IoT sensor data & weather insights for more accurate energy predictions.  
+**Assess Potential** – Implement demand response measures & energy-efficient designs.  
+**Develop Roadmap** – Long-term energy efficiency action plan based on industry best practices (e.g., Energy Star).  
 
 ---
 This experience reinforced the power of AI & cloud computing in driving sustainability. Excited for what’s next—let’s keep innovating for a greener future!   
