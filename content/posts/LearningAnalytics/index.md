@@ -54,7 +54,7 @@ Our intuitive interface allowed users to:
 - **Find similar threads** before posting new queries, reducing redundant discussions.
 
 ## Project Presentation
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvJEMPc75yJNWuOSutjibReutafYTPs-27anJfGQm17tYfmg0Qk-Z4bYMYGnKDIg/embed?start=true&loop=true&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvJEMPc75yJNWuOSutjibReutafYTPs-27anJfGQm17tYfmg0Qk-Z4bYMYGnKDIg/embed?start=true&loop=true&delayms=3000" frameborder="0" width="900" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Future Vision: **Discussion Archive**  
 To improve long-term teaching efficiency, we proposed an archival system for frequently discussed topics:  
