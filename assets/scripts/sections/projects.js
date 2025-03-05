@@ -3,37 +3,37 @@ import { insertScript } from '../core'
 
 document.addEventListener('DOMContentLoaded', () => {
   // ================== Project cards =====================
-
-  // setup project filter buttons
   const projectCardHolder = document.getElementById('project-card-holder')
   if (projectCardHolder != null && projectCardHolder.children.length !== 0) {
-    // Initialize Filterizr
     const filterizr = new Filterizr('.filtr-projects', {
       layout: 'sameWidth',
       controlsSelector: '.project-filtr-control'
     });
 
-    // Set default filter to "programming"
-    filterizr.filter('optimization');
+    // Set default filter to first active button on page load
+    const defaultFilter = document.querySelector('.project-filtr-control.active');
+    if (defaultFilter) {
+      const filterValue = defaultFilter.getAttribute('data-filter');
+      filterizr.filter(filterValue);
+    }
 
-    // Highlight the default selected filter button
-    document.querySelectorAll('.project-filtr-control').forEach(button => {
-      if (button.getAttribute('data-filter') === 'optimization') {
-        button.classList.add('active'); // Add active class to the selected filter
-      } else {
-        button.classList.remove('active');
-      }
-    });
+    // Function to update active button
+    function updateActiveButton(selectedFilter) {
+      document.querySelectorAll('.project-filtr-control').forEach(button => {
+        button.classList.toggle('active', button.getAttribute('data-filter') === selectedFilter);
+      });
+    }
 
-    // Ensure other filter buttons update their active state on click
+    // Event listener for filter buttons
     document.querySelectorAll('.project-filtr-control').forEach(button => {
       button.addEventListener('click', function () {
-        document.querySelectorAll('.project-filtr-control').forEach(btn => btn.classList.remove('active'));
-        this.classList.add('active');
+        const selectedFilter = this.getAttribute('data-filter');
+        filterizr.filter(selectedFilter);
+        updateActiveButton(selectedFilter);
       });
     });
   }
 });
 
-// Dynamically insert GitHub buttons script.
+// Insert GitHub buttons script dynamically
 insertScript('github-buttons', 'https://buttons.github.io/buttons.js');
