@@ -93,7 +93,7 @@ Cyberbully Aid aims to develop a multiclass cyberbullying detection system using
 - Build AI-powered recommendations for counseling victims of cyberbullying.
 
 ## Project Presentation
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvxYToGW5QQMzBUNoXvj0ULuC688Ph5ZCyQUyYB0WGDuRdeyVQMlSWQS7RBxdbvA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvxYToGW5QQMzBUNoXvj0ULuC688Ph5ZCyQUyYB0WGDuRdeyVQMlSWQS7RBxdbvA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="900" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Conclusion
 
