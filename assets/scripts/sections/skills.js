@@ -11,8 +11,5 @@ document.addEventListener('DOMContentLoaded', () => {
       layout: 'sameWidth',
       controlsSelector: '.skill-filtr-control'
     });
-
-    // Set default filter to "programming"
-    filterizr.filter('programming');
   }
 });
