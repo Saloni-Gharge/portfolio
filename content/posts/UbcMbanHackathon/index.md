@@ -1,6 +1,6 @@
 ---
 title: "Green6Sense - AI-Powered Smart Energy Management"
-date: 2025-03-05
+date: 2025-02-21
 description: "An AI-powered solution to optimize energy usage and sustainability across UBC’s campus."
 image: "green6sense.jpeg"
 menu:
