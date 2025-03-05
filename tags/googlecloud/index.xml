@@ -1,3 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Googlecloud on Saloni's Portfolio</title><link>https://saloni-gharge.github.io/SaloniGharge.github.io/tags/googlecloud/</link><description>Recent content in Googlecloud on Saloni's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saloni-gharge.github.io/SaloniGharge.github.io/tags/googlecloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Green6Sense - AI-Powered Smart Energy Management</title><link>https://saloni-gharge.github.io/SaloniGharge.github.io/posts/ubcmbanhackathon/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://saloni-gharge.github.io/SaloniGharge.github.io/posts/ubcmbanhackathon/</guid><description>&lt;p>🚀 Thrilled to share my experience from the recent Sauder MBAN Hackathon 2025, supported by Google Cloud at UBC, where our team, Green6Sense🌱, proudly secured 2nd place!&lt;/p>
-&lt;h2 id="-about-green6sense">🌍 About Green6Sense&lt;/h2>
-&lt;p>Green6Sense is an &lt;strong>AI-powered smart energy management system&lt;/strong> that detects anomalies, benchmarks energy efficiency, and forecasts energy consumption trends in real time. Built with cutting-edge cloud technologies, our solution aligns with UBC&amp;rsquo;s ambitious sustainablity goal of reducing emissions by 85% by 2030.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GoogleCloud on Saloni's Portfolio</title><link>https://saloni-gharge.github.io/SaloniGharge.github.io/tags/googlecloud/</link><description>Recent content in GoogleCloud on Saloni's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://saloni-gharge.github.io/SaloniGharge.github.io/tags/googlecloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Green6Sense - AI-Powered Smart Energy Management</title><link>https://saloni-gharge.github.io/SaloniGharge.github.io/posts/ubcmbanhackathon/</link><pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate><guid>https://saloni-gharge.github.io/SaloniGharge.github.io/posts/ubcmbanhackathon/</guid><description>&lt;h2 id="green6sense-ai-driven-energy-insights">Green6Sense: AI-Driven Energy Insights&lt;/h2>
+&lt;p>Green6Sense is an AI-powered solution that optimizes energy consumption by detecting electricity anomalies, benchmarking building performance, and forecasting energy trends. Our platform aligns with UBC’s ambitious goal of reducing campus emissions by &lt;strong>85% by 2030&lt;/strong>.&lt;/p>
+&lt;hr>
+&lt;h2 id="mission">Mission&lt;/h2>
+&lt;p>To &lt;strong>advance UBC’s energy efficiency goals&lt;/strong> through &lt;strong>data-driven electricity anomaly detection&lt;/strong>, improving &lt;strong>sustainability&lt;/strong> and &lt;strong>reducing inefficiencies&lt;/strong>.&lt;/p>
+&lt;h2 id="key-issues">Key Issues&lt;/h2>
+&lt;ul>
+&lt;li>High electricity usage &amp;amp; inefficiencies&lt;/li>
+&lt;li>Complexity in monitoring &amp;amp; benchmarking&lt;/li>
+&lt;li>Barriers to energy efficiency implementation&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="ai-driven-energy-insights">AI-Driven Energy Insights&lt;/h2>
+&lt;h3 id="1-electricity-anomaly-detection">1️. Electricity Anomaly Detection&lt;/h3>
+&lt;ul>
+&lt;li>10 years of historical data analyzed (2015 - 2025)&lt;/li>
+&lt;li>Detected spikes in electricity usage during extreme weather events:
+&lt;ul>
+&lt;li>Feb 2019: Record-breaking snowfall in Vancouver&lt;/li>
+&lt;li>Mar 2024: Power restoration after a windstorm-induced outage&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Unrealistic anomalies identified&lt;/strong> in many buildings where demand surged beyond 1.5x the interquartile range (IQR) of the past decade.&lt;/li>
+&lt;/ul>
+&lt;h3 id="2-historical--peer-benchmarking">2️. Historical &amp;amp; Peer Benchmarking&lt;/h3>
+&lt;ul>
+&lt;li>Building performance benchmarked against its 3-year historical average and peer buildings of the same type.&lt;/li>
+&lt;li>Over 50% of institutional buildings at UBC have higher electricity EUI than the building type average.&lt;/li>
+&lt;li>Findings align with EUI benchmarks of Vancouver office buildings, revealing UBC buildings underperform in energy efficiency.&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-forecast--genai-recommendation">3️. Forecast &amp;amp; GenAI Recommendation&lt;/h3>
+&lt;ul>
+&lt;li>Developed a 30-day electricity EUI forecast using BigQuery ML ARIMA-Plus model&lt;/li>
+&lt;li>Automated reports on energy trends and AI-driven recommendations using Vertex AI Gemini 2.0 Flash model.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="tech-stack-used">Tech Stack Used&lt;/h2>
+&lt;h2 id="energy-data--apis-ubc-energy-reports-skyspark-iot-sensors-data-vancouver-weather-data-ubc-building-data">&lt;strong>Cloud &amp;amp; AI:&lt;/strong> Google Cloud Platform, BigQuery ML, Vertex AI, Looker Studio&lt;br>
+&lt;strong>Energy Data &amp;amp; APIs:&lt;/strong> UBC Energy Reports, SkySpark, IoT Sensors data, Vancouver Weather data, UBC Building data&lt;/h2>
+&lt;h2 id="impact-driven-action-plan">Impact-Driven Action Plan&lt;/h2>
+&lt;p>&lt;strong>Deep-dive investigation for anomalies&lt;/strong>&lt;br>
+&lt;strong>Real-time reporting&lt;/strong> with automated GenAI alerts&lt;br>
+&lt;strong>Target setting &amp;amp; sharing&lt;/strong> via performance dashboards&lt;br>
+&lt;strong>Energy audits&lt;/strong> for poor-performing buildings&lt;/p></description></item></channel></rss>
