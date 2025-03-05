@@ -10,8 +10,6 @@ section:
 
 # filter buttons
 buttons:
-- name: All
-  filter: "all"
 - name: Optimization
   filter: "optimization"
 - name: Visualization & Data Analysis
