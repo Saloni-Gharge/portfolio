@@ -2,7 +2,7 @@
 title: "Cyberbully Aid: Detection of Cyberbullying Severity"
 date: 2025-03-05
 description: "An AI-powered cyberbullying detection system that analyzes and classifies bullying severity on social media platforms."
-hero: "cyberbully-aid.jng"
+hero: "cyberbully-aid.png"
 menu:
   sidebar:
     name: "Cyberbully Aid"
@@ -54,7 +54,7 @@ Cyberbully Aid aims to develop a multiclass cyberbullying detection system using
 - Achieved highest accuracy with Random Forest.
 
 ### System Architecture
-{{< img src="/posts/BEproject/sys.png" align="center" title="Forest">}}
+{{< img src="sys.png" align="center" title="Forest">}}
 {{< vs >}}
 
 ## Implementation
@@ -71,7 +71,7 @@ Cyberbully Aid aims to develop a multiclass cyberbullying detection system using
   - Alerts for severe cases.
   - User-specific moderation tools.
 
-{{< img src="/posts/BEproject/flow.png" align="center" title="Forest">}}
+{{< img src="flow.png" align="center" title="Forest">}}
 {{< vs >}}
 
 ## Results & Findings
