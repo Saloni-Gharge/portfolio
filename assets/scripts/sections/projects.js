@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Highlight the default selected filter button
     document.querySelectorAll('.project-filtr-control').forEach(button => {
-      if (button.getAttribute('data-filter') === 'programming') {
+      if (button.getAttribute('data-filter') === 'optimization') {
         button.classList.add('active'); // Add active class to the selected filter
       } else {
         button.classList.remove('active');
