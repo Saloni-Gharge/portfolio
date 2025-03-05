@@ -13,8 +13,25 @@ document.addEventListener('DOMContentLoaded', () => {
       controlsSelector: '.project-filtr-control'
     });
 
-    // Set default filter to "programming" (or any default category)
-    filterizr.filter('programming');
+    // Set default filter to "programming"
+    filterizr.filter('optimization');
+
+    // Highlight the default selected filter button
+    document.querySelectorAll('.project-filtr-control').forEach(button => {
+      if (button.getAttribute('data-filter') === 'programming') {
+        button.classList.add('active'); // Add active class to the selected filter
+      } else {
+        button.classList.remove('active');
+      }
+    });
+
+    // Ensure other filter buttons update their active state on click
+    document.querySelectorAll('.project-filtr-control').forEach(button => {
+      button.addEventListener('click', function () {
+        document.querySelectorAll('.project-filtr-control').forEach(btn => btn.classList.remove('active'));
+        this.classList.add('active');
+      });
+    });
   }
 });
 
