@@ -1,6 +1,6 @@
 ---
-title: "Quranntino: Indoor Positioning and Geofencing System for Covid Hospitals"
-date: 2021-06-15T00:00:00+00:00
+title: "Quranntino: Indoor Positioning and Geofencing System"
+date: 2021-04-15
 description: "A smart IoT-based geofencing and patient monitoring system designed to ensure safety and efficiency in Covid hospitals."
 menu:
   sidebar:
@@ -22,7 +22,7 @@ video: "https://drive.google.com/drive/folders/1KrA-JLjkPMN8VLYbk23CvnNTNe0pKHVu
 
 **Quranntino** is an innovative **Indoor Positioning and Geofencing System** designed to monitor Covid-19 patients within hospital premises. The system utilizes Bluetooth Low Energy (BLE) bands and strategically placed receivers to ensure real-time tracking of patients. If a patient attempts to breach the geofence or remove the band, an instant alert is sent to hospital authorities via a web application.  
 
-This solution was developed to **support frontline healthcare workers** by improving **patient monitoring, security, and resource allocation** during the pandemic.  
+This solution was developed to support frontline healthcare workers by improving patient monitoring, security, and resource allocation during the pandemic.  
 
 **Key Technologies Used:**  
 - **Bluetooth Low Energy (BLE) Beacons** for tracking  
@@ -88,7 +88,7 @@ Our approach involved multiple layers of data collection, processing, and visual
 
 ## Additional Use Cases  
 
-Beyond healthcare, **Quranntino** can be adapted for various industries:  
+Beyond healthcare, Quranntino can be adapted for various industries:  
 
 **Corporate Security** – Track employees within office premises.  
 **Retail Stores** – Gain insights into customer navigation & behavior.  
@@ -98,7 +98,7 @@ Beyond healthcare, **Quranntino** can be adapted for various industries:
 
 ---
 
-## 🏆 Achievements & Recognition  
+## Achievements & Recognition  
 
 **Semi-Finalists – Deep Blue Hackathon 2021 (Mastek)**  
    - A 3-4 month engagement offering industry mentorship to tackle real-world social challenges.  
@@ -111,6 +111,6 @@ Beyond healthcare, **Quranntino** can be adapted for various industries:
 
 ## Source Code  
 
-📌 **GitHub Repository:** [Indoor Positioning & Geofencing System](https://github.com/Saloni-Gharge/indoor-positioning)  
+**GitHub Repository:** [Indoor Positioning & Geofencing System](https://github.com/Saloni-Gharge/indoor-positioning)  
 
 **Quranntino is a step forward in using IoT for public health & safety!**  
