@@ -31,7 +31,7 @@ projects:
   tags: ["optimization", "community-impact"]
 
 - name: Kidney Exchange Optimization
-  logo: /images/sections/projects/kidney-exchange.png
+  #logo: /images/sections/projects/kidney-exchange.png
   image: /images/sections/projects/kidney-exchange.png
   role: Developer
   timeline: "2024"
@@ -40,7 +40,7 @@ projects:
   tags: ["optimization", "healthcare", "mathematical-modeling"]
 
 - name: Understanding Yelp Reviews in Vancouver
-  logo: /images/sections/projects/yelp.png
+  #logo: /images/sections/projects/yelp.png
   image: /images/sections/projects/yelp.png
   role: Data Analyst
   timeline: "2024"
@@ -49,7 +49,7 @@ projects:
   tags: ["visualization-data-analysis", "customer-analysis"]
 
 - name: The Impact of Remote Work on Employees' Mental Well-being
-  logo: /images/sections/projects/remote-work.png
+  #logo: /images/sections/projects/remote-work.png
   image: /images/sections/projects/remote-work.png
   role: Data Analyst
   timeline: "2024"
@@ -58,7 +58,7 @@ projects:
   tags: ["visualization-data-analysis", "tableau", "mental-health"]
 
 - name: Pharmaceutical Marketing Assessment
-  logo: /images/sections/projects/pharma-marketing.png
+  #logo: /images/sections/projects/pharma-marketing.png
   image: /images/sections/projects/pharma-marketing.png 
   role: Marketing Analyst
   timeline: "2024"
@@ -67,7 +67,7 @@ projects:
   tags: ["visualization-data-analysis", "marketing-analytics"]
 
 - name: Industry Analysis using Python
-  logo: /images/sections/projects/industry-analysis.png
+  #logo: /images/sections/projects/industry-analysis.png
   image: /images/sections/projects/industry-analysis.png
   role: Business Analyst
   timeline: "2024"
@@ -76,7 +76,7 @@ projects:
   tags: ["visualization-data-analysis", "data-science", "business-analysis"]
 
 - name: Predicting Customer Churn in the Telecom Industry
-  logo: /images/sections/projects/churn.png
+  #logo: /images/sections/projects/churn.png
   image: /images/sections/projects/churn.png
   role: Data Scientist
   timeline: "2025"
@@ -85,7 +85,7 @@ projects:
   tags: ["digital-ai", "machine-learning", "business-analysis"]
 
 - name: Online Portal for Society Essential Commodities
-  logo: /images/sections/projects/ecommerce.png
+  #logo: /images/sections/projects/ecommerce.png
   image: /images/sections/projects/ecommerce.png
   role: Web Developer
   timeline: "2020"
@@ -94,7 +94,7 @@ projects:
   tags: ["digital-ai", "web-dev", "ecommerce"]
 
 - name: Planetary Health in Medicine
-  logo: /images/sections/projects/planetary-health.png
+  #logo: /images/sections/projects/planetary-health.png
   image: /images/sections/projects/planetary-health.png
   role: Sustainability Analyst
   timeline: "2024"
