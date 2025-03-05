@@ -20,7 +20,7 @@ The 2024 Learning Analytics Hackathon was an incredible opportunity to collabora
 ## The Challenge  
 Our 5-hour challenge was to analyze UBC Canvas discussions and uncover actionable insights to improve student engagement and instructor efficiency.
 
-## **Key Problems Identified:**  
+## Key Problems Identified:
 - **Repetitive Questions:** Students frequently ask similar questions, making manual tracking inefficient.  
 - **Instructor Efficiency:** Professors repeatedly answer the same queries, reducing valuable teaching time.
 
