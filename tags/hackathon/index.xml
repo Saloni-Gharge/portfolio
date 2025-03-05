@@ -34,13 +34,11 @@
 &lt;li>Automated reports on energy trends and AI-driven recommendations using Vertex AI Gemini 2.0 Flash model.&lt;/li>
 &lt;/ul>
 &lt;hr>
+&lt;h2 id="looker-studio-dashboards">Looker Studio Dashboards&lt;/h2>
+&lt;iframe src="https://drive.google.com/file/d/1CSUrEncvawvoY_fobYfX1Lz5S5C1BiPp/preview" width="800" height="400" allow="autoplay">&lt;/iframe>
+&lt;hr>
 &lt;h2 id="tech-stack-used">Tech Stack Used&lt;/h2>
-&lt;h2 id="energy-data--apis-ubc-energy-reports-skyspark-iot-sensors-data-vancouver-weather-data-ubc-building-data">&lt;strong>Cloud &amp;amp; AI:&lt;/strong> Google Cloud Platform, BigQuery ML, Vertex AI, Looker Studio&lt;br>
-&lt;strong>Energy Data &amp;amp; APIs:&lt;/strong> UBC Energy Reports, SkySpark, IoT Sensors data, Vancouver Weather data, UBC Building data&lt;/h2>
-&lt;h2 id="impact-driven-action-plan">Impact-Driven Action Plan&lt;/h2>
-&lt;p>&lt;strong>Deep-dive investigation for anomalies&lt;/strong>&lt;br>
-&lt;strong>Real-time reporting&lt;/strong> with automated GenAI alerts&lt;br>
-&lt;strong>Target setting &amp;amp; sharing&lt;/strong> via performance dashboards&lt;br>
-&lt;strong>Energy audits&lt;/strong> for poor-performing buildings&lt;/p></description></item><item><title>Learning Analytics Hackathon: Tackling Student Engagement Challenges Through Canvas Data</title><link>https://saloni-gharge.github.io/SaloniGharge.github.io/posts/learninganalytics/</link><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><guid>https://saloni-gharge.github.io/SaloniGharge.github.io/posts/learninganalytics/</guid><description>&lt;p>The 2024 Learning Analytics Hackathon was an incredible opportunity to collaborate with a team of five talented peers and solve real-world education challenges using data analytics. Hosted at the UBC Sauder Learning Labs, this 10th edition hackathon focused on Canvas discussion data to enhance teaching and learning experiences.&lt;/p>
+&lt;p>&lt;strong>Cloud &amp;amp; AI:&lt;/strong> Google Cloud Platform, BigQuery ML, Vertex AI, Looker Studio&lt;br>
+&lt;strong>Energy Data &amp;amp; APIs:&lt;/strong> UBC Energy Reports, SkySpark, IoT Sensors data, Vancouver Weather data, UBC Building data&lt;/p></description></item><item><title>Learning Analytics Hackathon: Tackling Student Engagement Challenges Through Canvas Data</title><link>https://saloni-gharge.github.io/SaloniGharge.github.io/posts/learninganalytics/</link><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><guid>https://saloni-gharge.github.io/SaloniGharge.github.io/posts/learninganalytics/</guid><description>&lt;p>The 2024 Learning Analytics Hackathon was an incredible opportunity to collaborate with a team of five talented peers and solve real-world education challenges using data analytics. Hosted at the UBC Sauder Learning Labs, this 10th edition hackathon focused on Canvas discussion data to enhance teaching and learning experiences.&lt;/p>
 &lt;h2 id="the-challenge">The Challenge&lt;/h2>
 &lt;p>Our 5-hour challenge was to analyze UBC Canvas discussions and uncover actionable insights to improve student engagement and instructor efficiency.&lt;/p></description></item></channel></rss>
