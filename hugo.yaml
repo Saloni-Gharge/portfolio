@@ -1,3 +1,4 @@
+
 baseURL: https://saloni-gharge.github.io/SaloniGharge.github.io/
 
 languageCode: en
@@ -58,7 +59,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/bg4.png
+  background: /images/site/pbg1.png
   # Background image of the landing page for dark theme
   #darkBackground: /images/site/background.jpg
 
