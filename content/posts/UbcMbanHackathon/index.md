@@ -19,8 +19,6 @@ tags: ["GoogleCloud", "AI", "Sustainability", "BigQuery", "VertexAI", "LookerStu
 ## Green6Sense: AI-Driven Energy Insights  
 Green6Sense is an AI-powered solution that optimizes energy consumption by detecting electricity anomalies, benchmarking building performance, and forecasting energy trends. Our platform aligns with UBC’s ambitious goal of reducing campus emissions by 85% by 2030.
 
----
-
 ## Mission  
 To advance UBC’s energy efficiency goals through data-driven electricity anomaly detection, improving sustainability and reducing inefficiencies.
 
@@ -89,5 +87,6 @@ Green6Sense isn’t just for UBC— its impact extends globally! With rising ene
 ## Presentation  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMBbZxJK0Dyt5oF4_q6xvIDsSAuy0LGoFA_puQOtzHpHi5QZKZvqELhJmwzWTfcA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 ---
-This experience reinforced the power of AI & cloud computing in driving sustainability. Excited for what’s next—let’s keep innovating for a greener future!   
+
+## This experience reinforced the power of AI & cloud computing in driving sustainability. Excited for what’s next—let’s keep innovating for a greener future!   
 
