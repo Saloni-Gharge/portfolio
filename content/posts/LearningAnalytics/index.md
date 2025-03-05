@@ -26,15 +26,17 @@ Our 5-hour challenge was to analyze UBC Canvas discussions and uncover actionabl
 
 ## Our AI-Powered Solution  
 To address these challenges, we developed prototype with two core features:  
-- 1️. Keyword Filter & Search: Enables users to filter discussion topics using keywords, streamlining navigation.  
-- 2️. Suggesting Similar Discussions: Uses AI-driven similarity analysis to recommend related discussions, reducing redundancy.  
+
+1️. Keyword Filter & Search: Enables users to filter discussion topics using keywords, streamlining navigation.  
+2️. Suggesting Similar Discussions: Uses AI-driven similarity analysis to recommend related discussions, reducing redundancy.  
 
 ## Methodology & Approach  
-We implemented data-driven AI techniques to structure and optimize discussions:  
-- 1️. **Data Extraction & Profiling**: Retrieved Canvas discussion data via APIs.  
-- 2️. **Text Processing & Cleansing**: Standardized data by removing noise.  
-- 3️. **Keyword Analysis**: Applied TF-IDF & Word2Vec models to extract meaningful keywords.  
-- 4️. **AI-Powered Similarity Matching**: Used cosine similarity to find and suggest related discussions.  
+We implemented data-driven AI techniques to structure and optimize discussions: 
+
+1️. **Data Extraction & Profiling**: Retrieved Canvas discussion data via APIs.  
+2️. **Text Processing & Cleansing**: Standardized data by removing noise.  
+3️. **Keyword Analysis**: Applied TF-IDF & Word2Vec models to extract meaningful keywords.  
+4️. **AI-Powered Similarity Matching**: Used cosine similarity to find and suggest related discussions.  
 
 ## Data Visualization  
 Our findings were presented using:  
@@ -53,8 +55,8 @@ Our intuitive interface allowed users to:
 
 ## Project Presentation
 <iframe src="https://docs.google.com/presentation/d/19uiEWZ-SJzBqUA5oo60chiIovP-j_DBg/embed?start=false&loop=false&delayms=3000" 
-        width="800" 
-        height="500" 
+        width="1000" 
+        height="700" 
         allowfullscreen>
 </iframe>
 
