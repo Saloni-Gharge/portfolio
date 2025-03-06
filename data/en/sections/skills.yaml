@@ -99,10 +99,10 @@ skills:
   summary: "Comfortable using Windows for software development and administration."
   categories: ["os-scripting"]
 
-- name: macOS
-  logo: /images/sections/skills/macos.png
-  summary: "Experience in macOS for software engineering and automation tasks."
-  categories: ["os-scripting"]
+#- name: macOS
+#  logo: /images/sections/skills/macos.png
+#  summary: "Experience in macOS for software engineering and automation tasks."
+#  categories: ["os-scripting"]
 
 - name: Linux
   logo: /images/sections/skills/linux.png
