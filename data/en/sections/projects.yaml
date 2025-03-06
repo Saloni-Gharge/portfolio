@@ -10,14 +10,14 @@ section:
 
 # filter buttons
 buttons:
-- name: Optimization
+- name: Optimization & Sustainability
   filter: "optimization"
 - name: Visualization & Data Analysis
   filter: "visualization-data-analysis"
 - name: Digital Solutions & AI
   filter: "digital-ai"
-- name: Sustainability
-  filter: "sustainability"
+#- name: Sustainability
+#  filter: "sustainability"
 
 # your projects
 projects:
@@ -100,4 +100,4 @@ projects:
   timeline: "2024"
   repo: https://github.com/Saloni-Gharge/Plantenary-Health-in-Medicine/blob/main/Planetary_Health_diet.pdf
   summary: Proposed strategies for hospitals to reduce animal-based foods and promote plant-based diets for health and sustainability.
-  tags: ["sustainability", "healthcare"]
+  tags: ["optimization","sustainability", "healthcare"]
