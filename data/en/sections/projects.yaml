@@ -21,7 +21,7 @@ buttons:
 
 # your projects
 projects:
-- name: Diet Optimization Project - Feeding Hope Initiative
+- name: Diet Optimization - Feeding Hope Initiative
   #logo: /images/sections/projects/diet-optimization.png
   image: /images/sections/projects/diet-optimization.png
   role: Developer
@@ -37,7 +37,7 @@ projects:
   timeline: "2024"
   repo: https://github.com/Saloni-Gharge/Kidney-Exchange-Optimization
   summary: Modeled and solved an optimization problem to maximize kidney transplant matches using Python and Gurobi.
-  tags: ["optimization", "healthcare", "mathematical-modeling"]
+  tags: ["optimization", "healthcare"]
 
 - name: Understanding Yelp Reviews in Vancouver
   #logo: /images/sections/projects/yelp.png
