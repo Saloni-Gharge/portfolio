@@ -8,7 +8,7 @@ title: "Saloni's Portfolio"
 module:
   imports:
   - path: github.com/hugo-toha/toha
-    version: v4.8.0
+    version: 9b42dbd8f3564c0a4b38f3f258b47fc5b13eb582
   mounts:
   - source: static/files
     target: static/files
